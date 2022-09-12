@@ -1,0 +1,5 @@
+@include('layout_files.head_links')
+@include('layout_files.navbar')
+@yield('content')
+@include('layout_files.footer')
+@include('layout_files.script_files')
