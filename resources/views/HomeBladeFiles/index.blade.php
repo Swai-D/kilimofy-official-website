@@ -79,7 +79,7 @@
     <div class="parallax-content section-xl section-inset-custom-1 context-dark bg-overlay-40">
       <div class="container">
         <br>
-        <h2 class="oh font-weight-normal"><span class="d-inline-block wow slideInDown" data-wow-delay="0s">Our Approach</span></h2>
+        <h2 class="oh font-weight-normal"><span class="d-inline-block wow slideInDown" data-wow-delay="0s">How ?</span></h2>
         <p class="oh big text-width-large"><span class="d-inline-block wow slideInUp" data-wow-delay=".2s">By creating Best software tool that helps Individuals to have total controll at  all multiple level of agricultural value chain, together with the taste of Simplicity, User-Friendy, and Beautifuly Design.</span></p>
         <!-- <a class="button button-primary button-icon button-icon-left button-ujarak wow fadeInUp" href="https://www.youtube.com/watch?v=-AhmuMqZB0s" data-lightgallery="item" data-wow-delay=".1s"><span class="icon mdi mdi-play"></span>View presentation</a> -->
       </div>
