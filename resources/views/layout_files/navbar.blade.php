@@ -43,7 +43,7 @@
                 <li class="rd-nav-item @yield('active_about_us_page')"><a class="rd-nav-link" href="/">About Us</a>
                   <!-- RD Navbar Dropdown-->
                   <!-- <ul class="rd-menu rd-navbar-dropdown"> -->
-                    <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="/">Our Services</a></li>
+                    <!-- <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="/Nyumbani/huduma_zinazo_tolewa_na_t_kilimo">Our Services</a></li> -->
                     <!-- <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="/Nyumbani/timu_ya_wafanyakazi_wa_t_kilimo">Timu Yetu</a></li> -->
                   <!-- </ul> -->
                 </li>
