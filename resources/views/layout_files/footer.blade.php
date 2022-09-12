@@ -59,8 +59,7 @@
             <div class="inset-top-18 wow slideInDown" data-wow-delay="0s">
               <h4 class="text-white"><img src="/assets/images/join-us/location.png" alt="" style="width:30px; height:30px;"> Our Map</h4>
               <br>
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3963.2341372298147!2d39.0958893147388!3d-6.617808066532933!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c589391344b6d%3A0xa1b234b54e80765!2sBunju%20B%20Bus%20Stop!5e0!3m2!1sen!2stz!4v1590837996855!5m2!1sen!2stz" width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-            </div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d36812.593002744994!2d36.678970782350085!3d-3.3914793017248606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1smega%20complex%20arusha!5e0!3m2!1sen!2stz!4v1662968528567!5m2!1sen!2stz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>            </div>
           </div>
         </div>
       </div>
